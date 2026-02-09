@@ -1,13 +1,9 @@
-// Day 13 Logic Practice
-console.log('Lab Session 13 Started');
+// Day 14 Logic Practice
+console.log('Lab Session 14 Started');
 
-// Dynamic day value
-const selectedDay = 13;
+const selectedDay = 14;
 
-// Update heading
-document.getElementById('day').innerText = selectedDay;
+document.getElementById('day').textContent = selectedDay;
 
-// Update debug panel
 const display = document.getElementById('display');
-display.innerText = 'Logic Engine Online';
-
+display.textContent = 'Logic Engine Online';
