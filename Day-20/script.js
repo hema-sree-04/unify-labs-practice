@@ -1,4 +1,4 @@
-console.log("Lab Session 18 Started");
+console.log("Lab Session 20 Started");
 
 // Day number
 let selectedDay = 20;
